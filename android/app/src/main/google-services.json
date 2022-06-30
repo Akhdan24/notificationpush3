@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490654604359",
+    "project_id": "notificationpush-97825",
+    "storage_bucket": "notificationpush-97825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490654604359:android:a532f36ce600e06385a562",
+        "android_client_info": {
+          "package_name": "com.timun.notificationpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490654604359-ht1sjopjt2r518t0ojl45pqtcvd034rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekHecftCfXp36m1s_m3m7az6oFlMu7_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490654604359-ht1sjopjt2r518t0ojl45pqtcvd034rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
